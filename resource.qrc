@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/myresources">
+        <file>../build-Roshar-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/debug/image/icons8-setting-60 (1).png</file>
+        <file>../build-Roshar-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/debug/image/icons8-setting-60.png</file>
+        <file>AggressiveIdealisticAssassinbug-mobile.mp4</file>
+        <file>EducatedTinyAntarcticgiantpetrel-mobile.mp4</file>
+        <file alias="icon-img.gif">GIF-210827_134433.gif</file>
+        <file>icons8_audio.ico</file>
+        <file>icons8_bottom_docking.ico</file>
+        <file>icons8_center_of_gravity.ico</file>
+        <file>icons8_font_size_1.ico</file>
+        <file>icons8_font_size_2.ico</file>
+        <file>icons8_font_style_formatting_3.ico</file>
+        <file>icons8_lowercase_2.ico</file>
+        <file>icons8_lowercase_2_1.ico</file>
+        <file>icons8_lowercase_2_2.ico</file>
+        <file>icons8_lowercase_2_3.ico</file>
+        <file>icons8_top_docking.ico</file>
+        <file>icons8_typography.ico</file>
+        <file>Lithium.mp3</file>
+    </qresource>
+</RCC>
